@@ -38,4 +38,4 @@ To reconstruct this project in Xilinx Vivado:
 5. Run Synthesis, Implementation, and Generate Bitstream.
 
 ---
-*Designed by [Daniel Barroso Corral] as part of Advanced Digital System Design studies.*
+*Designed by Daniel Barroso Corral as part of Advanced Digital System Design studies.*
